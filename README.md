@@ -1,6 +1,6 @@
 👋 Hi, I’m **Prince Kwame Baah**
 
-### Software Developer and Cloud Engineer
+### Software Developer | Machine Learning Engineer | Cloud Engineer
 
 ---
 
