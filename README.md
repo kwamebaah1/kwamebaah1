@@ -4,16 +4,6 @@
 
 ---
 
-### 📜 Certifications
-
-- **ALX AI Career Essentials**  
-  [![ALX AI Career Essentials](https://img.shields.io/badge/ALX%20AI%20Career%20Essentials-Certificate-blue)](https://intranet.alxswe.com/certificates/zN3XTJc5MY)
-  
-- **Cloud Computing - AWS Educate**  
-  [![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2f79b4ff-64b6-408e-bfcd-7dc0336f25df)
-
----
-
 ### 🛠️ Technologies and Tools
 
 Here are some of the tools and technologies I work with:
