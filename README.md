@@ -3,10 +3,6 @@
 ### Software Developer | Machine Learning Engineer | Cloud Engineer
 
 ---
-<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,react native,tensorflow,pytorch" />
-<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,flask,nestjs,scikit learn" /><br>
-
----
 
 ### 🛠️ Technologies and Tools
 
