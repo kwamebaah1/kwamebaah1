@@ -5,7 +5,7 @@
 
 ### Software Developer | Machine Learning Engineer | Cloud Engineer
 
----
+--
 
 ### 🛠️ Technologies and Tools
 
